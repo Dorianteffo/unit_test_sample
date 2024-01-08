@@ -17,4 +17,3 @@ if __name__ == '__main__' :
     df = load_data('dataset/Warehouse_and_Retail_Sales.csv')
     clean_df = clean_data(df)
 
-    print(df.columns)
